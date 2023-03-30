@@ -19,7 +19,7 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
         resValue("string", "ADMOB_ID", "ca-app-pub-3940256099942544~3347511713")
-        resValue("string", "base_url", "server_url_needs")
+        resValue("string", "base_url", "http://34.133.232.244:3002/strongvpn/api/")
     }
 
     signingConfigs {
